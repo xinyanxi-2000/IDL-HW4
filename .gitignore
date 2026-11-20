@@ -1,0 +1,9 @@
+hw4lib.zip
+expts/
+wandb/
+submission_evidence/
+handin.tar.gz
+__pycache__/
+*.pth
+.DS_Store
+config.yaml
